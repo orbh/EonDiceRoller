@@ -13,5 +13,6 @@ Example when importing the file in Google Sheets:
 
 ### Improvement rolls
 Tool for speeding up the process of improvement rolls. The tool automatically calculates the difficulty and generates a roll against it. 
-Example: 
- ![image of an improvement roll being made in the console](assets/screen2.jpg)
+Example:  
+
+![image of an improvement roll being made in the console](assets/screen2.jpg)
