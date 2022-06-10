@@ -9,6 +9,8 @@ Generates a .CSV-file with a dice pool ranging from 1D6 to 10D6 for the Game Mas
 Example when importing the file in Google Sheets:
 	![image of numbers in google sheets](assets/screen1.jpg)
 
+---
+
 ### Improvement rolls
 Tool for speeding up the process of improvement rolls. The tool automatically calculates the difficulty and generates a roll against it. 
 Example: 
